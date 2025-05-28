@@ -57,17 +57,10 @@
             <li><strong>Operating System Concepts:</strong> Process management, context switching, and scheduling</li>
             <li><strong>Algorithm Analysis:</strong> Performance metrics and algorithm efficiency</li>
             <li><strong>GUI Programming:</strong> Java Swing components and event handling</li>
-            <li><strong>Data Structures:</strong> Lists, and sorting algorithms</li>
+            <li><strong>Data Structures:</strong> Lists and sorting algorithms</li>
             <li><strong>Software Engineering:</strong> Object-oriented design and modular programming</li>
         </ul>
     </div>
-    <div class="section">
-        <h2>📄 License</h2>
-        <p>This project is open source and available under the <strong>MIT License</strong>.</p>
-        <div style="text-align: center; margin-top: 30px; padding: 20px; background: #f8f9fa; border-radius: 10px;">
-            <p><strong>Made with ❤️ for Operating Systems Education</strong></p>
-            <p style="font-size: 0.9em; color: #666;">Demonstrating CPU Scheduling Algorithms through Interactive Visualization</p>
-        </div>
-    </div>
+    <P>Video to show the <a href="https://drive.google.com/file/d/16h_bFTSEj0zV-B9-Sg5GdRsiTQg64_yy/view?usp=sharing">project</a></P>
 </body>
 </html>
